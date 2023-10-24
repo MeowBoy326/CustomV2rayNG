@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.v2ray.ang",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 523,
+      "versionName": "1.8.9",
+      "outputFile": "v2rayNG_1.8.9.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,3 @@
+rootProject.name = "V2rayNG"
+include ':app'
+include ':libv2ray'
